@@ -1,3 +1,33 @@
+This repository contains various datasets, models, and code. Below are the respective licenses for these components. Ensure compliance with these licenses when using this repository.
+
+====================================
+DATASETS
+====================================
+
+---------------  
+BDD100K Dataset  
+---------------  
+- **Code**: The BDD100K code repository is licensed under the BSD 3-Clause License.  
+- **Dataset**: The data and labels downloaded from https://bdd-data.berkeley.edu/ are subject to the following terms:  
+
+Copyright ©2018. The Regents of the University of California (Regents). All Rights Reserved.  
+Permission is granted for educational, research, and not-for-profit purposes, without fee and without a signed licensing agreement. For commercial licensing opportunities, contact:  
+The Office of Technology Licensing, UC Berkeley, 2150 Shattuck Avenue, Suite 510, Berkeley, CA 94720-1620, (510) 643-7201, otl@berkeley.edu, http://ipira.berkeley.edu/industry-info  
+
+IN NO EVENT SHALL REGENTS BE LIABLE FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES. THIS SOFTWARE AND DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+====================================
+MODELS
+====================================
+
+-----------  
+YOLO License  
+-----------  
+The YOLO model is licensed under the Affero General Public License (AGPL-3.0).  
+- License details: https://www.gnu.org/licenses/agpl-3.0.html  
+- Model details: https://docs.ultralytics.com/de/models/yolo11/#overview  
+
+====================================
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
